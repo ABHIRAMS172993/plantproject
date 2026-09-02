@@ -85,3 +85,4 @@ coverage/
 
 
 backend/.env
+frontend/.env
